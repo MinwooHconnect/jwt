@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353262778210",
+    "project_id": "new-healthon-stg",
+    "storage_bucket": "new-healthon-stg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353262778210:android:0ff7f2cd7bd44b9cc01e3b",
+        "android_client_info": {
+          "package_name": "kr.co.hconnect.healthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353262778210-okstnpdpne08ipblv8drndt4bb6be93v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNkVWHb6tzWkMNqjwZ81YfHqJU8gOqJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353262778210-okstnpdpne08ipblv8drndt4bb6be93v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353262778210-eslpqt6p5kovk58c3qgrgkgjpd65d3ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.hconnect.healthon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
